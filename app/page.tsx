@@ -25,7 +25,7 @@ export default function Home() {
           </p>
         </div>
         <div className="contact my2">
-          <a className="mr1" href="mailto:natalieking1993@hotmail.co.uk">
+          <a className="mr1" href="mailto:contact@nataliekingmarketing.com">
             Email
           </a>
           <a href="https://www.linkedin.com/company/natalie-king-marketing/">
