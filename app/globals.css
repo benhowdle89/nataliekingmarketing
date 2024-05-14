@@ -13,8 +13,15 @@ body {
 }
 
 .feature-items {
+  border-bottom-color: #3c6b4d;
+  border-bottom-width: 1.25px !important;
   p {
     line-height: 2rem;
+    span {
+      b {
+        color: #3c6b4d;
+      }
+    }
   }
 }
 
