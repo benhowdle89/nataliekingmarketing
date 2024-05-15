@@ -16,6 +16,7 @@ export default function Home() {
               "HubSpot Specialist",
               "Digital Marketing",
               "Marketing Operations",
+              "Fractional Marketing",
             ].map((item, index) => (
               <span key={index}>
                 {item}
