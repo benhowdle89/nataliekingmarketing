@@ -20,7 +20,7 @@ export default function Home() {
             ].map((item, index) => (
               <span key={index}>
                 {item}
-                <b>{[0, 1].includes(index) ? " | " : ""}</b>
+                <b>{[0, 1, 2].includes(index) ? " | " : ""}</b>
               </span>
             ))}
           </p>
