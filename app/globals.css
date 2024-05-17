@@ -40,10 +40,10 @@ body {
 .logo {
   text-align: center;
   position: relative;
-  max-width: 290px;
+  max-width: 145px;
   /* padding-bottom: 86.55172413793103%; */
   width: 100%; /* or any specific width */
-  height: 251px; /* or any specific height */
+  height: 125.5px; /* or any specific height */
   overflow: hidden;
   position: relative;
   img {
