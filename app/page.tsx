@@ -33,10 +33,9 @@ export default function Home() {
           <div>
             <h2 className="h2">Meet Natalie</h2>
             <p>
-              Having worked in a range of industries, across B2B and B2C,
-              Natalie has seen a lot of common mistakes made by businesses -
-              start-up, scaling and enterprise - in setting up their marketing
-              operations.
+              Having worked in a range of industries across B2B and B2C, Natalie
+              has seen a lot of common mistakes made by businesses - start-up,
+              scaling and enterprise - in setting up their marketing operations.
             </p>
           </div>
 
@@ -44,10 +43,10 @@ export default function Home() {
             <h3 className="h3">Transform Your Marketing Operations</h3>
             <p>
               Natalie is equipped to help your business set up marketing
-              operations correctly, to empower you to take the reins of your
+              operations correctly, and empower you to take the reins of your
               marketing with automated reporting and powerful workflows. Whether
               you have nothing yet in place, or a system that isn&apos;t working
-              for you, get in touch to find out how she can help.
+              effectively for you, get in touch to find out how she can help.
             </p>
           </div>
 
