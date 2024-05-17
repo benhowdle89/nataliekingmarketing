@@ -7,7 +7,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Natalie King Marketing",
-  description: "HubSpot Specialist | Digital Marketing | Marketing Operations"
+  description:
+    "HubSpot Specialist | Digital Marketing | Marketing Operations | Fractional Marketing",
 };
 
 export default function RootLayout({
