@@ -46,8 +46,8 @@ export default function Home() {
               Natalie is equipped to help your business set up marketing
               operations correctly, to empower you to take the reins of your
               marketing with automated reporting and powerful workflows. Whether
-              you have nothing yet in place, or a system that isn't working for
-              you, get in touch to find out how she can help.
+              you have nothing yet in place, or a system that isn&apos;t working
+              for you, get in touch to find out how she can help.
             </p>
           </div>
 
